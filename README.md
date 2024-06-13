@@ -1,6 +1,4 @@
-Sure, I can help you enhance the documentation for your project. Here's an improved version of the `README.md` file:
 
----
 
 # Real-time E-commerce Data Engineering
 
